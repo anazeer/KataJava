@@ -6,7 +6,7 @@
 
     <groupId>KataJava</groupId>
     <artifactId>com.yatzy.refactoring.kata</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <properties>
         <mavenCompilerVersion>3.7.0</mavenCompilerVersion>
